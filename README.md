@@ -35,6 +35,11 @@ Jaya Jaya Institut menghadapi tingkat dropout siswa yang tinggi, yang dapat berd
   1. Install dependensi dengan pip install -r requirements.txt
   2. Jalankan aplikasi dashboard dengan streamlit run app.py
   ```
+  * Dashboard Metabase:
+  ```
+  email: root@email.com
+  password: root123
+  ```
 
 ## Business Dashboard
 Dashboard dirancang untuk menampilkan insight penting kepada pihak universitas, antara lain:
